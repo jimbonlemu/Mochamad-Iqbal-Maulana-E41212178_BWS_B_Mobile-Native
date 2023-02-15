@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/development/andro-native/Week5/app/src/main/res/drawable/bulet.xml" value="0.2005" />
+        <entry key="..\:/development/andro-native/Week5/app/src/main/res/drawable/round_button.xml" value="0.2005" />
         <entry key="..\:/development/andro-native/Week5/app/src/main/res/layout/activity_main.xml" value="0.35778985507246375" />
         <entry key="..\:/development/andro-native/Week5/app/src/main/res/layout/activity_style.xml" value="0.2698087431693989" />
+        <entry key="..\:/development/andro-native/Week5/app/src/main/res/layout/menu_layout.xml" value="0.23931347150259066" />
+        <entry key="..\:/development/andro-native/Week5/app/src/main/res/layout/scroll_horizontal.xml" value="0.28768233387358183" />
+        <entry key="..\:/development/andro-native/Week5/app/src/main/res/layout/scroll_view.xml" value="0.35778985507246375" />
       </map>
     </option>
   </component>
