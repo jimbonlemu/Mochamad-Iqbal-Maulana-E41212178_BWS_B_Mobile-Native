@@ -28,7 +28,7 @@
               android:background="@drawable/bulet"
               android:drawableTop="@android:drawable/ic_dialog_map"
               android:paddingTop="20dp"
-              android:text="Contact"
+              android:text="Map"
               android:textColor="#fff" />
           <Button
               android:layout_width="120dp"
@@ -38,7 +38,7 @@
               android:background="@drawable/bulet"
               android:drawableTop="@android:drawable/ic_input_add"
               android:paddingTop="20dp"
-              android:text="Contact"
+              android:text="Add"
               android:textColor="#fff" />
           <Button
               android:layout_width="120dp"
@@ -48,7 +48,7 @@
               android:background="@drawable/bulet"
               android:drawableTop="@android:drawable/ic_delete"
               android:paddingTop="20dp"
-              android:text="Contact"
+              android:text="Remove"
               android:textColor="#fff" />
       </LinearLayout>
 
@@ -66,7 +66,7 @@
               android:background="@drawable/bulet"
               android:drawableTop="@android:drawable/ic_dialog_info"
               android:paddingTop="20dp"
-              android:text="Contact"
+              android:text="About"
               android:textColor="#fff" />
           <Button
               android:layout_width="120dp"
@@ -76,7 +76,7 @@
               android:background="@drawable/bulet"
               android:drawableTop="@android:drawable/ic_dialog_alert"
               android:paddingTop="20dp"
-              android:text="Contact"
+              android:text="Warning!"
               android:textColor="#fff" />
           <Button
               android:layout_width="120dp"
@@ -86,7 +86,7 @@
               android:background="@drawable/bulet"
               android:drawableTop="@android:drawable/ic_dialog_dialer"
               android:paddingTop="20dp"
-              android:text="Contact"
+              android:text="Tiles"
               android:textColor="#fff" />
       </LinearLayout>
 
@@ -104,7 +104,7 @@
               android:background="@drawable/bulet"
               android:drawableTop="@android:drawable/ic_menu_always_landscape_portrait"
               android:paddingTop="20dp"
-              android:text="Contact"
+              android:text="Flip"
               android:textColor="#fff" />
           <Button
               android:layout_width="120dp"
@@ -124,7 +124,7 @@
               android:background="@drawable/bulet"
               android:drawableTop="@android:drawable/ic_menu_manage"
               android:paddingTop="20dp"
-              android:text="Contact"
+              android:text="Settings"
               android:textColor="#fff" />
       </LinearLayout>
 
